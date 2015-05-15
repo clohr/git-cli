@@ -1,3 +1,3 @@
 #git-cli
 
-Node-based utility to publish Github commits.
+Node command line utility to publish Github commits.
