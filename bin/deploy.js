@@ -2,4 +2,4 @@
 
 var shell = require('shelljs');
 
-shell.exec('git-cli-commit && github-cli-push');
+shell.exec('git-cli-commit && git-cli-push');
