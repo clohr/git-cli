@@ -1,0 +1,21 @@
+{
+  "name": "git-cli",
+  "version": "1.0.0",
+  "description": "Git Command Line Utility",
+  "main": "bin/deploy.js",
+  "dependencies": {
+    "shelljs": "^0.4.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "git",
+    "cli"
+  ],
+  "bin": {
+    "git-cli-commit": "bin/commit.js",
+    "git-cli-push": "bin/push.js",
+    "git-cli-deploy": "bin/deploy.js"
+  },
+  "author": "Christian Lohr <christian.lohr@gmail.com>",
+  "license": "MIT"
+}
